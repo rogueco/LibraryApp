@@ -1,0 +1,11 @@
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/bin/Debug/netcoreapp2.0/LibraryData.deps.json
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/bin/Debug/netcoreapp2.0/LibraryData.runtimeconfig.json
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/bin/Debug/netcoreapp2.0/LibraryData.runtimeconfig.dev.json
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/bin/Debug/netcoreapp2.0/LibraryData.dll
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/bin/Debug/netcoreapp2.0/LibraryData.pdb
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/obj/Debug/netcoreapp2.0/LibraryData.csprojAssemblyReference.cache
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/obj/Debug/netcoreapp2.0/LibraryData.csproj.CoreCompileInputs.cache
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/obj/Debug/netcoreapp2.0/LibraryData.AssemblyInfoInputs.cache
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/obj/Debug/netcoreapp2.0/LibraryData.AssemblyInfo.cs
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/obj/Debug/netcoreapp2.0/LibraryData.dll
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryData/obj/Debug/netcoreapp2.0/LibraryData.pdb

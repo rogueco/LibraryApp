@@ -1,0 +1,14 @@
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryApp.deps.json
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryApp.runtimeconfig.json
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryApp.runtimeconfig.dev.json
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryApp.dll
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryApp.pdb
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryData.dll
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/bin/Debug/netcoreapp2.0/LibraryData.pdb
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.csprojAssemblyReference.cache
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.csproj.CoreCompileInputs.cache
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.AssemblyInfoInputs.cache
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.AssemblyInfo.cs
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.csproj.CopyComplete
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.dll
+/repos/Personal/Development/LibraryApp/LibraryApp/LibraryApp/obj/Debug/netcoreapp2.0/LibraryApp.pdb

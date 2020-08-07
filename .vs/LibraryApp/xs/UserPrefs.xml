@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C5A1A619-BE63-4A8F-91D2-746CE8D6EFEE}|Default">
+  <MonoDevelop.Ide.ItemProperties.LibraryApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../LibraryApplication/LibraryApplication/LibraryApplication/Startup.cs">
+    <Files>
+      <File FileName="../../LibraryApplication/LibraryApplication/LibraryApplication/Startup.cs" Line="36" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryApp" expanded="True">
+            <Node name="LibraryApp" expanded="True" />
+            <Node name="LibraryData" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="LibraryApplication" expanded="True">
+            <Node name="LibraryApplication" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="LibraryData" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LibraryData FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
